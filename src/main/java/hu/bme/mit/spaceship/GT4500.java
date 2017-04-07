@@ -86,7 +86,7 @@ public class GT4500 implements SpaceShip {
       return onSingleFiringMode();
     }
     else if(firingMode == ALL){
-      return onAllFiringMode()
+      return onAllFiringMode();
     }
   }
 
